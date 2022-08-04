@@ -1,0 +1,23 @@
+npm init -y 
+package.json
+
+show this proposal https://github.com/tc39/proposal-change-array-by-copy
+
+show core https://github.com/zloirock/core-js
+npm install --save core-js@3.24.1
+
+touch index.mjs 
+  all new immutable array functions
+
+show this proposal https://github.com/tc39/proposal-array-grouping
+index.mjs
+  all  describe('groupping', () => {
+
+show this proposal https://github.com/tc39/proposal-array-from-async
+
+index.mjs 
+  all describe('fromASync',
+
+
+
+

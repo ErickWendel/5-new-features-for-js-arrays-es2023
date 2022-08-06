@@ -1,0 +1,18 @@
+{
+  "name": "recorded",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --no-warnings index.mjs | tap-spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap-spec": "^5.0.0"
+  },
+  "dependencies": {
+    "core-js": "^3.24.1"
+  }
+}
